@@ -1,0 +1,15 @@
+
+form {
+    background: chartreuse;
+    border-radius: 6px;
+    width: min-content;
+}
+
+input#exampleInputPassword1 {
+    border-radius: 5px;
+    cursor: pointer;
+}
+input#exampleInputEmail1 {
+    border-radius: 5px;
+    cursor: pointer; 
+}
