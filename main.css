@@ -13,3 +13,8 @@ input#exampleInputEmail1 {
     border-radius: 5px;
     cursor: pointer; 
 }
+body {
+    width: 305%;
+    margin: 102px;
+    border: #74a919;
+}
